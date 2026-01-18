@@ -22,8 +22,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="pt-BR" suppressHydrationWarning>
       <head>
-        <title>Database</title>
-        <meta name="description" content="Database - Gerenciamento de keys" />
+        <title>Covil</title>
+        <meta name="description" content="Covil - Store" />
         <meta name="robots" content="index, follow" />
 
         <script
